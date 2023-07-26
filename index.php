@@ -29,7 +29,7 @@ $libros = mysqli_fetch_all($query, MYSQLI_ASSOC);
                             <h3 class="card-title">Autor: <?php echo $libro['autor']; ?></h3>
                             <h5 class="card-title">ISBN: <?php echo $libro['ISBN']; ?></h5>
                             <p class="card-text">Descripción: <?php echo $libro['descripcion']; ?></p>
-                            <a href="#" class="btn btn-primary">Información</a>
+                            <a href="informacion_libro.php?isbn=<?php echo $libro['ISBN']; ?>" class="btn btn-primary">Información</a>
                             <a href="./view/logic/actualizar.php?id=<?php echo $libro['ISBN']?>" class="btn btn-primary">Editar</a>
                             <a href="./view/logic/delete.php?id=<?php echo $libro['ISBN']?>" class="btn btn-danger">Borrar</a>
                         </div>
