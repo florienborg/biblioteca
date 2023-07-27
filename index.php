@@ -18,7 +18,7 @@ $libros = mysqli_fetch_all($query, MYSQLI_ASSOC);
 <body>
     <?php include("./view/components/navbar.php"); ?>
     <h1 class= "title" style="color: #581C87;padding: 4rem;text-align: center;">Descubre un mundo infinito entre las páginas: donde cada libro es una puerta hacia el conocimiento y la imaginación.</h1>
-    <div class="row mt-3" style=";align-items: center;display: flex; justify-content: center; width:100%" >
+    <div class="row mt-3" style="align-items: center;display: flex; justify-content: center; width:100%" >
         <?php
             foreach ($libros as $libro) {
                 ?>
