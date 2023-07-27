@@ -1,9 +1,9 @@
 <?php
 function conectar(){
-    $server = "localhost";
+    $server = "localhost:8889";
     $user = "root";
-    // $pass = "root";
-    $pass = "";
+    $pass = "root";
+    // $pass = "";
     $db = "libreria";
     $conn = mysqli_connect($server, $user, $pass);
     mysqli_select_db($conn, $db); 
