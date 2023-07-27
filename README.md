@@ -110,3 +110,21 @@ Breve descripción de como poder ver nuestro proyecto, para ejecutarlo necesitas
 }`
 y estás listo para empezar.
 5. Visita la URL correspondiente en tu navegador para acceder al proyecto y disfruta.
+
+## :page_facing_up:Documentación
+​
+[Documentation](https://factoriaf5.notion.site/Biblioteca-ace270257b804f508b3e9a93a0cc6693)
+
+- [PHP Mysql Crud](https://www.youtube.com/watch?v=pn2v9lPakHQ)
+- [Buscador con PHP y MySql - Búsqueda por Coincidencia de Caracter - Mejor Explicación](https://www.youtube.com/watch?v=NaXYJd4XO8g)
+- [CRUD - Funciones Básicas en Base de Datos - Presentación](https://youtu.be/aJOdjubj5jo)  
+- [Guardar Imágenes En Base De Datos y Mostrarlas Con PHP y MySQL (¡Rutas!)](https://youtu.be/I2Z2q5fxSZ4) 
+- [Search icon button inside search input box](https://youtu.be/vkV9GSYaExI) 
+- [Efecto Hover a una Imagen con Html y Css](https://youtu.be/Z5MoBm99w1Q)
+- [Beautiful CSS box-shadow examples - CSS Scan](https://getcssscan.com/css-box-shadow-examples)
+- [Readme emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Css Font size responsive](https://marabelia.com/css-font-size-responsive/)
+- [Como usar sweet alert con base de datos](https://www.youtube.com/watch?v=8H9WOYfSeJc)
+- [Sweet alert 2](https://sweetalert2.github.io/)
+- [PHP ejemplo de validación de formularios](https://programadorwebvalencia.com/PHP-ejemplo-de-validacion-formulario-version-7/)
+
