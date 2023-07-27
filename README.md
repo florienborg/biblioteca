@@ -29,9 +29,7 @@ En este proyecto crearemos una página web con funcionalidades especificas, de m
 <img src="https://github.com/florienborg/biblioteca/assets/131755081/2fb26156-f8b9-424a-8e08-ebd45d53bd37" width=500px>
 <img src="https://github.com/florienborg/biblioteca/assets/131755081/5d83a2fd-8e9c-4f0f-8b94-a6592fb58969" width=500px>
 
-
-
-
+## 🛠 Tecnologías
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -86,6 +84,8 @@ Breve descripción de como poder ver nuestro proyecto, para ejecutarlo necesitas
 (13, '9782473885160', 'Harry Potter  y el legado maldito', 'J.K. Rowling', 'Ser Harry Potter nunca ha sido tarea f#cil, menos a#n desde que se ha  convertido en un ocupadísimo empleado del Ministerio de Magia, un hombre casado y padre de tres hijos.', 'https://m.media-amazon.com/images/I/41G6AGP-QHL._SY264_BO1,204,203,200_QL40_ML2_.jpg'),
 (14, '9788499890944', '1984', 'George Orwell', '«No creo que la sociedad que he descrito en1984 necesariamente llegue a ser una realidad, pero sí creo que puede llegar a existir algo parecido», escribía Orwell después de publicar su novela. Corría el año 1948, y la realidad se ha encargado de convertir esa pieza -entonces de ciencia ficción- en un manifiesto de la realidad. Harry Potter y el legado maldito es una obra de teatro de Jack Thorne basada en una historia original de  J.K. Rowling, John  Tiffany y Jack Thorne. Es la octava historia de la saga de Harry Potter y la primera que se representa oficialmente en  los escenarios.', 'https://imagessl3.casadellibro.com/a/l/t7/73/9788498388473.jpg');`
 
+4. En config modifica el archivo db.php para configurar y poder acceder al proyecto en tu navegador 
+
 - MAMP
 `function conectar(){
     $server = "localhost:8889";
@@ -109,9 +109,6 @@ Breve descripción de como poder ver nuestro proyecto, para ejecutarlo necesitas
 }`
 y estás listo para empezar.
 5. Visita la URL correspondiente en tu navegador para acceder al proyecto y disfruta.
-
-
-
 
 
 
