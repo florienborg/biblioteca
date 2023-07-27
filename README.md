@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 # Biblioteca Reading Innovators 📖
 <h1 align="center">
   <img src="https://github.com/florienborg/biblioteca/assets/131755081/07bdb51f-070d-420c-83fe-25387955b968" alt= "Logo" width=300px> 
-=======
-# Biblioteca Reading Innovators 🗃 
-<h1 align="center">
-  <img src="https://github.com/florienborg/biblioteca/assets/131755081/9ac886b3-ef05-4166-b7b5-436be4c0f533" alt= "Logo" width=300px> 
->>>>>>> ef174da62a92fb7a127197449e7b163eea33b13d
   <!-- <spam align="center">Reading Innovators</spam> -->
 </h1>
 
@@ -17,34 +11,15 @@
    4. [Herramientas](#herramientas)
    5. [Developers](#developers)
 
-<<<<<<< HEAD
 ## 🗃 Información General
 La biblioteca de nuestro barrio se quiere modernizar y necesita tener todos sus libros organizados en una página web. Tener un inventario actualizado le facilitará la gestión para poder prestar mejor sus servicios. La administradora de la biblioteca necesita añadir libros, actualizarlos y poder borrarlos. También quiere que se visualicen en la primera página.
 
 Para este proyecto, crearemos una biblioteca virtual sencilla de utilizar y con funcionalidades útiles para poder navegar a través de la página web de manera eficaz.
-=======
-## 🗃  Información General
 
-La biblioteca de nuestro barrio se quiere modernizar y necesita tener todos sus libros organizados en un programa web, tener un inventario actualizado le facilitará la gestión, para poder prestar mejor sus servicios, la administradora de la biblioteca necesita añadir libros, actualizarlos y poder borrarlos. También quiere que se visualicen en la primera página.
->>>>>>> ef174da62a92fb7a127197449e7b163eea33b13d
-
-En este proyecto crearemos una página web con funcionalidades especificas, de manera que todo fluya eficazmente.
 
 ## Mockups
 
 #### Versión Mobile
-<<<<<<< HEAD
-<img src="https://github.com/florienborg/biblioteca/assets/131755081/da6d1a1c-cf49-49f4-ab22-f8e02d7f85ba" width=300px>
-<img src="https://github.com/florienborg/biblioteca/assets/131755081/7a76a8c4-827e-45ef-b916-43b9119be6f9" width=300px>
-
-
-#### Versión Desktop
-<img src="https://github.com/florienborg/biblioteca/assets/131755081/2fb26156-f8b9-424a-8e08-ebd45d53bd37" width=500px>
-<img src="https://github.com/florienborg/biblioteca/assets/131755081/5d83a2fd-8e9c-4f0f-8b94-a6592fb58969" width=500px>
-
-
-
-=======
 <img src="https://github.com/florienborg/biblioteca/assets/131755081/0fa94f79-827c-41f4-b185-d5ba59c6d428" width="300px">
 <img src="https://github.com/florienborg/biblioteca/assets/131755081/88343faa-d56b-4059-882f-d7fd7de62aec" width="300px">
 
@@ -53,7 +28,6 @@ En este proyecto crearemos una página web con funcionalidades especificas, de m
 
 <img src="https://github.com/florienborg/biblioteca/assets/131755081/08d297e3-d8f3-4d89-bdcc-7e4248dd9d03" width="500px">
 <img src="https://github.com/florienborg/biblioteca/assets/131755081/f00e7205-b553-46f4-890c-8a2abf23b56c" width="500px">
->>>>>>> ef174da62a92fb7a127197449e7b163eea33b13d
 
 ## 💻 Tecnologías
 <div>
@@ -72,8 +46,6 @@ En este proyecto crearemos una página web con funcionalidades especificas, de m
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" heigth="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="react" width="40" height="40"/> </div>
 
-<<<<<<< HEAD
-=======
 ## Instalación
 
 Breve descripción de como poder ver nuestro proyecto, para ejecutarlo necesitas tener conocimientos previos sobre como funciona Mamp/Xamp
@@ -134,14 +106,8 @@ Breve descripción de como poder ver nuestro proyecto, para ejecutarlo necesitas
 y estás listo para empezar.
 5. Visita la URL correspondiente en tu navegador para acceder al proyecto y disfruta.
 
->>>>>>> ef174da62a92fb7a127197449e7b163eea33b13d
 
 ## Developers
+ [<img src="https://avatars.githubusercontent.com/u/79811065?v=4" width=150><br><sub>Génesis Núñez</sub>](https://github.com/genesis-nf)| [<img src="https://avatars.githubusercontent.com/u/131755081?v=4" width=115><br><sub>Florencia Bordón</sub>](https://github.com/florienborg) |  [<img src="https://avatars.githubusercontent.com/u/131244871?v=4" width=115><br><sub>Cindy Leiva</sub>](https://github.com/CindyLeiva) |  [<img src="https://avatars.githubusercontent.com/u/107352744?v=4" width=115><br><sub>Mónica Blanco</sub>](https://github.com/mgblanco10) |  
+| :---: | :---: | :---: | :---: |
 
-[Mónica Blanco](https://github.com/mgblanco10)
-
-[Cindy Leiva](https://github.com/CindyLeiva)
-
-[Florencia Bordón](https://github.com/florienborg)
-
-[Génesis Núñez](https://github.com/genesis-nf)

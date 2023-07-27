@@ -23,7 +23,7 @@ $libros = mysqli_fetch_all($query, MYSQLI_ASSOC);
             foreach ($libros as $libro) {
                 ?>
                 <div class="col-md-3">
-                    <div class="card" style="width: 20rem; height: 32rem; margin: 3rem;">
+                    <div class="card" style="width: 20rem; height: 35rem; margin: 3rem;">
                         <img src= "<?php echo $libro['portada']; ?>" class="card-img-top" alt="Portada del libro"  style="width: 100%; height: 18rem; object-fit: cover;">
                         <div class="card-body">
                             <a href="informacion_libro.php?isbn=<?php echo $libro['ISBN']; ?>" class="link-text" style="text-decoration:none;text-align:left;font-weight: 800;color: #581C87;"><h2 class="card-title"><?php echo $libro['titulo'];?></h2></a>
