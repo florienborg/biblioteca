@@ -16,7 +16,7 @@
 
         <div class="form-group">
              <label for="" class="mt-4" style="font-size:17px">Autor</label>
-             <input type="text" name="autor" class="form-control mt-2" style="background:#D1D1D1; height: 50px" placeholder="">
+             <input type="text" name="autor" class="form-control mb-5 mt-2" style="background:#D1D1D1; height: 50px" placeholder="">
         </div>
         </div>
       
