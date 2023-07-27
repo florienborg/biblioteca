@@ -113,7 +113,9 @@ y estás listo para empezar.
 
 ## :page_facing_up:Documentación
 ​
-[Documentation](https://factoriaf5.notion.site/Biblioteca-ace270257b804f508b3e9a93a0cc6693)
+[Documentación facilitada por los Stakeholders para el proyecto](https://factoriaf5.notion.site/Biblioteca-ace270257b804f508b3e9a93a0cc6693)
+
+Videos e información relevante:
 
 - [PHP Mysql Crud](https://www.youtube.com/watch?v=pn2v9lPakHQ)
 - [Buscador con PHP y MySql - Búsqueda por Coincidencia de Caracter - Mejor Explicación](https://www.youtube.com/watch?v=NaXYJd4XO8g)
