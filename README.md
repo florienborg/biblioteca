@@ -4,6 +4,10 @@
   <!-- <spam align="center">Reading Innovators</spam> -->
 </h1>
 
+## Developers
+ [<img src="https://avatars.githubusercontent.com/u/79811065?v=4" width=150><br><sub>Génesis Núñez</sub>](https://github.com/genesis-nf)| [<img src="https://avatars.githubusercontent.com/u/131755081?v=4" width=115><br><sub>Florencia Bordón</sub>](https://github.com/florienborg) |  [<img src="https://avatars.githubusercontent.com/u/131244871?v=4" width=115><br><sub>Cindy Leiva</sub>](https://github.com/CindyLeiva) |  [<img src="https://avatars.githubusercontent.com/u/107352744?v=4" width=115><br><sub>Mónica Blanco</sub>](https://github.com/mgblanco10) |  
+| :---: | :---: | :---: | :---: |
+
 ## 📓 Tabla de contenidos 
    1. [Información General](#información-general)
    2. [Mockups](#mockups)
@@ -106,10 +110,3 @@ Breve descripción de como poder ver nuestro proyecto, para ejecutarlo necesitas
 }`
 y estás listo para empezar.
 5. Visita la URL correspondiente en tu navegador para acceder al proyecto y disfruta.
-
-
-## Developers
- [<img src="https://avatars.githubusercontent.com/u/79811065?v=4" width=150><br><sub>Génesis Núñez</sub>](https://github.com/genesis-nf)| [<img src="https://avatars.githubusercontent.com/u/131755081?v=4" width=115><br><sub>Florencia Bordón</sub>](https://github.com/florienborg) |  [<img src="https://avatars.githubusercontent.com/u/131244871?v=4" width=115><br><sub>Cindy Leiva</sub>](https://github.com/CindyLeiva) |  [<img src="https://avatars.githubusercontent.com/u/107352744?v=4" width=115><br><sub>Mónica Blanco</sub>](https://github.com/mgblanco10) |  
-| :---: | :---: | :---: | :---: |
-
-
