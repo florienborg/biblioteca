@@ -1,4 +1,5 @@
 <?php
+include("../components/card.php");
 include("../../config/db.php");
 
 if (isset($_GET['titulo'])) {
@@ -53,22 +54,21 @@ if (isset($_GET['titulo'])) {
     </div>
     </nav>
 
-    <div class="col-md-6" style="padding: 50px;">
+
                 <h2 style="color:#581c87; font-size: 34px;">Resultados de la Búsqueda</h2>
+                <div class="row mt-3" style="align-items: center;display: flex; justify-content: center; width:100%">
                 <?php 
-                    if ($query) {
-                    while ($libro = mysqli_fetch_assoc($query)) {
-                    echo "Título: " . $libro['titulo'] . "<br>";
-                    echo "Autor: " . $libro['autor'] . "<br>";
-                    echo "Descripción: " . $libro['descripcion'] . "<br>";
-                    echo "<hr>";
-                        }
-                    } else {
-                    echo "Error en la consulta: " . mysqli_error($conn);
-                    }
-                ?>
+    if ($query) {
+        while ($libro = mysqli_fetch_assoc($query)) {
+            generarCard($libro, false); 
+        }
+    } else {
+        echo "Error en la consulta: " . mysqli_error($conn);
+    }
+    ?>
+    </div>
                 <a style="background: white; border:none; color:#C084FC; font-size: 20px;" href="../../index.php" class="btn btn-secondary">Volver</a>
-            </div>
+         
 
 
 
