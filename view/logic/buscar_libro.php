@@ -55,7 +55,7 @@ if (isset($_GET['titulo'])) {
     </nav>
 
 
-                <h2 style="color:#581c87; font-size: 34px;">Resultados de la Búsqueda</h2>
+                <h2 style="color:#581c87; font-size: 34px;padding: 2rem;text-align: center;">Resultados de la Búsqueda</h2>
                 <div class="row mt-3" style="align-items: center;display: flex; justify-content: center; width:100%">
                 <?php 
     if ($query) {
